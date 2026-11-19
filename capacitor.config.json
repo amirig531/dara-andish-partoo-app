@@ -1,0 +1,6 @@
+{
+  "appId": "com.daraandishparto.catalog",
+  "appName": "دارا اندیش پرتو",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
